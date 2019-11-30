@@ -7,7 +7,6 @@
 /local-config-hosts.php
 /sql-dump-*.sql
 /db-sync
-/content
 .DS_Store
 .idea
 .vscode

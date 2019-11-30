@@ -18,12 +18,12 @@ version: 3
 #
 # (When overriding, include vagrant.local if you need it)
 hosts:
-    - vagrant.local
+    - wpmeetup.local
 
 # Site Configuration
 # (When overriding, include all values)
 site:
-    name: Chassis Site
+    name: WordPress Meetup
 
 # IP address to use on the private network
 #
