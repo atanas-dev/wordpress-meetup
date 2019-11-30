@@ -10,3 +10,9 @@
 [submodule "puppet/modules/wp"]
 	path = puppet/modules/wp
 	url = https://github.com/Chassis/puppet-wp.git
+[submodule "deck"]
+	path = deck
+	url = git@github.com:atanas-dev/wordpress-meetup-deck.git
+[submodule "content/themes/backup"]
+	path = content/themes/backup
+	url = git@github.com:atanas-dev/wordpress-meetup-theme.git
