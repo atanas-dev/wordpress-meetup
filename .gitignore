@@ -20,3 +20,4 @@ config.local.yaml
 /*.cert
 /phpmemcachedadmin
 /webgrind
+/content/themes/live
